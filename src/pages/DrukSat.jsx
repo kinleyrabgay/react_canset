@@ -9,8 +9,8 @@ const DrukSat = () => {
     { name: 'Altitude', value: '10 M' },
   ]);
   return (
-    <div className="mt-8 mx-6 md:mx-12 lg:mx-12">
-      <div className="flex justify-center bg-blue-50 h-50">
+    <div className="mt-9 mx-6 md:mx-12 lg:mx-12">
+      <div className="flex justify-center bg-blue-50 h-64">
         <img
           src={product9}
           alt="your-image-alt-text-here"
